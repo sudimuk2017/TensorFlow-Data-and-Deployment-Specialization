@@ -1,7 +1,7 @@
 # TensorFlow-Data-and-Deployment-Specialization
 *************************************************************
 
-kjsdhbjhddjhdccdukuiueuieioceinoceoiwciudoeiwdcuncoewiubeodeciunowiejceidhnciowenewckbncowixnc
+kjsdhbjhddjhdccdukuiueuieioceinoceoiwciudoeidcuncoewiubeodeciunowiejceidhnciowenewckbncowixnc
 
 TensorFlow: Data and Deployment Specialization - Coursera course specialization   
 https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses

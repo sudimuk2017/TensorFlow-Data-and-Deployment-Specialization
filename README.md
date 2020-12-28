@@ -4,7 +4,7 @@
 kjsdhbjhddjhdccdukui
 ueuieiocinoceoiciudo
 eidcncoewiueodeciun
-owiejceiniowenewc
+owiejeiniowenewc
 
 
 TensorFlow: Data and Deployment Specialization - Coursera course specialization   
